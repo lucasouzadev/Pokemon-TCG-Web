@@ -1,4 +1,3 @@
-```markdown
 # Pokémon TCG Web
 
 Bem-vindo ao **Pokémon TCG Web** – o portal onde cada carta é uma aventura e cada clique revela novos universos! Se você já sonhou em ser o mestre dos cards, este projeto é a trilha iluminada que o levará a jornadas épicas no mundo do Pokémon Trading Card Game.
